@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cell-attendance-sheets/precache-manifest.ee1e774c7e3f60123255073999eba719.js"
+  "/cell-attendance-sheets/precache-manifest.9f4fed4b90051f5eb48368dac972080f.js"
 );
 
 self.addEventListener('message', (event) => {
