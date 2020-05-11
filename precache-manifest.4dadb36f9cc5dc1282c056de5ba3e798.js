@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7bfab0acb2fecacebdb36305e3c5878",
+    "revision": "54259818d80761bdc127531ac391db39",
     "url": "/cell-attendance-sheets/index.html"
   },
   {
-    "revision": "6f20973e4b3760f43e30",
+    "revision": "d5ecba74d5678b03971c",
     "url": "/cell-attendance-sheets/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cell-attendance-sheets/static/js/2.9d68e28e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6f20973e4b3760f43e30",
-    "url": "/cell-attendance-sheets/static/js/main.72911686.chunk.js"
+    "revision": "d5ecba74d5678b03971c",
+    "url": "/cell-attendance-sheets/static/js/main.46711fdd.chunk.js"
   },
   {
     "revision": "83384f804935bf29f153",
