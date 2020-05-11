@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/cell-sheets/static/css/main.5f361e03.chunk.css",
-    "main.js": "/cell-sheets/static/js/main.c66d93d8.chunk.js",
-    "main.js.map": "/cell-sheets/static/js/main.c66d93d8.chunk.js.map",
-    "runtime-main.js": "/cell-sheets/static/js/runtime-main.e7154c15.js",
-    "runtime-main.js.map": "/cell-sheets/static/js/runtime-main.e7154c15.js.map",
-    "static/js/2.9d68e28e.chunk.js": "/cell-sheets/static/js/2.9d68e28e.chunk.js",
-    "static/js/2.9d68e28e.chunk.js.map": "/cell-sheets/static/js/2.9d68e28e.chunk.js.map",
-    "index.html": "/cell-sheets/index.html",
-    "precache-manifest.c9f66b9f6e9ec589b71ef5ddd566a288.js": "/cell-sheets/precache-manifest.c9f66b9f6e9ec589b71ef5ddd566a288.js",
-    "service-worker.js": "/cell-sheets/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/cell-sheets/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.9d68e28e.chunk.js.LICENSE.txt": "/cell-sheets/static/js/2.9d68e28e.chunk.js.LICENSE.txt"
+    "main.css": "/cell-attendance-sheets/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cell-attendance-sheets/static/js/main.7cdaedbd.chunk.js",
+    "main.js.map": "/cell-attendance-sheets/static/js/main.7cdaedbd.chunk.js.map",
+    "runtime-main.js": "/cell-attendance-sheets/static/js/runtime-main.5ab4f99e.js",
+    "runtime-main.js.map": "/cell-attendance-sheets/static/js/runtime-main.5ab4f99e.js.map",
+    "static/js/2.9d68e28e.chunk.js": "/cell-attendance-sheets/static/js/2.9d68e28e.chunk.js",
+    "static/js/2.9d68e28e.chunk.js.map": "/cell-attendance-sheets/static/js/2.9d68e28e.chunk.js.map",
+    "index.html": "/cell-attendance-sheets/index.html",
+    "precache-manifest.098bf262379480a554f8e0b722da7833.js": "/cell-attendance-sheets/precache-manifest.098bf262379480a554f8e0b722da7833.js",
+    "service-worker.js": "/cell-attendance-sheets/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cell-attendance-sheets/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9d68e28e.chunk.js.LICENSE.txt": "/cell-attendance-sheets/static/js/2.9d68e28e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7154c15.js",
+    "static/js/runtime-main.5ab4f99e.js",
     "static/js/2.9d68e28e.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.c66d93d8.chunk.js"
+    "static/js/main.7cdaedbd.chunk.js"
   ]
 }
