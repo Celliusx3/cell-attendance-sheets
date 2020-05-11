@@ -163,7 +163,7 @@ export default function HomeScreen() {
             </Select>
           </FormControl>
           <div className={classes.wrapper}>
-            <Button variant="contained" color="primary" disableElevation onClick={onSubmitClicked} disabled={username == null || username== "" || signInType == null || signInType== "" || loading }>
+            <Button variant="contained" color="primary" disableElevation disableRipple onClick={onSubmitClicked} disabled={username == null || username== "" || signInType == null || signInType== "" || loading }>
               Submit
             </Button>
             {loading && <CircularProgress size={24} className={classes.buttonProgress} />}
