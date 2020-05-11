@@ -112,7 +112,6 @@ export default function HomeScreen() {
       (result) => {
         setLoading(false);
         setMessage({success:true, message: "Successfully recorded."})
-        console.log(result)
       },
       // Note: it's important to handle errors here
       // instead of a catch() block so that we don't swallow
@@ -120,7 +119,6 @@ export default function HomeScreen() {
       (error) => {
         setLoading(false);
         setMessage({success:false, message: "Something went wrong. Please try again!"})
-        console.log(error)
       }
     )
   }
